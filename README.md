@@ -15,7 +15,7 @@ This is a segmentation pipeline to automatically, and robustly, segment the whol
 > - Numerical agreement between backends: **[How closely does Metal agree with the CPU?](#how-closely-does-metal-agree-with-the-cpu)**
 > - For the canonical, CUDA-targeted version, use [upstream](https://github.com/Hendrik-code/spineps).
 >
-> Bugs in the fork-specific behaviour belong in [this fork's issues](https://github.com/kevinj24fr/spineps/issues).
+> Bugs in the fork-specific behaviour belong in [this fork's issues](https://github.com/kevinj24fr/spinepsMetal/issues).
 > Anything about the segmentation itself is an upstream matter.
 
 ## Changes in this fork
